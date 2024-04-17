@@ -249,9 +249,8 @@ python manage.py migrate
 
 
 #### Paso 20: Crear el archivo `.gitignore` para evitar subir el entorno virtual a Git
-```
 venv/
-```
+
 
 #### Paso 21: Crear el archivo `requirements.txt` para guardar las dependencias de nuestro proyecto
 ```bash
